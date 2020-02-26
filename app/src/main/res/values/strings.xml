@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">I-Volunteer</string>
+    <string name="acnt">Don\'t have an account ? SignUp now</string>
+    <string name="register">Register</string>
+    <string name="login_act">Already have an account ? Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intrested">Interested</string>
+</resources>
